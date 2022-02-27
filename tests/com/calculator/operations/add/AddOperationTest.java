@@ -2,7 +2,6 @@ package tests.com.calculator.operations.add;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import org.junit.Before;
 import org.junit.Test;
 
 import src.com.calculator.operations.add.Add;
